@@ -6,6 +6,11 @@ public class HelloWorld1 {
 
 		String name = "masum";
 		System.out.println(name);
+		
+		String name1 = "gowthami";
+		
+		System.out.println(name1);
+		
 	}
 
 }
